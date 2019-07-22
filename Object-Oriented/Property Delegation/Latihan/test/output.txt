@@ -1,0 +1,6 @@
+Nilai name dari: null berubah menjadi John
+Nilai age dari: null berubah menjadi 22
+Nilai gender dari: null berubah menjadi male
+Name: John
+Age: 22
+Gender: male
